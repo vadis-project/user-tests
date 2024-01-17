@@ -1,4 +1,4 @@
-
+This repo provides the "Interview guide" + "Search Scenario" description for the VADIS demo user test. The user test took place at GESIS, Cologne.
 
 # Citation
 
