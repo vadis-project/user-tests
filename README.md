@@ -1,7 +1,25 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h3 align="center">VADIS User Tests</h3>
+
+  <p align="center">
+    Interview guide and search scenario for the VADIS user test conducted at GESIS
+    <br />
+  </p>
+</div>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
 This repo provides the "Interview guide" + "Search Scenario" description for the VADIS demo user test. The user test took place at GESIS, Cologne.
 
-# Citation
+<!-- CONTACT -->
+## Contact
 
+Yavuz Selim Kartal - yavuzselim.kartal@gesis.org
+
+## Citation
 Please cite the [VADIS Demo paper](https://arxiv.org/pdf/2312.13423.pdf) as:  
 
 ```bibtex
